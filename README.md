@@ -1,33 +1,7 @@
 Module 18 Analysis
 
-Analysis of Most Popular Start Stations in 2014/2016 using Map
-
-Introduction: This analysis examines the most popular start stations and trip duration trends for bike sharing in New York City in 2014 and 2016. Utilizing a map visualization in Tableau, we explore how the popularity of start stations and trip durations have evolved over the two-year period. Less transit stops equals more bikes being used.  
-
-Map Visualization: The map visualization presents start stations as bubbles, with the size and color of each bubble indicating the popularity and trip duration of the station, respectively. A measure line is available for filtering through smaller or larger bubbles, aiding in data exploration.
-
-Grand Central Station Dominance:  In both 2014 and 2016 , E 42nd St & Vanderbilt Ave near Grand Central Terminal emerges as the busiest start station with the largest and darkest bubble, indicating high trip frequency and duration.
-
-Shift in Popular Stations: While Grand Central remains a top destination, there are notable shifts in station popularity between 2014 and 2016. In 2014, stations near New York Penn Station and Public Theatre/New York University ranked among the top three, while in 2016, stations near Central Park and colleges gained prominence.
-
-Trip Duration Phenomenon: A significant phenomenon observed in 2016 is the station Central Park S & 6 Ave near Central Park, which despite having a smaller bubble size, exhibits the darkest color indicating longer trip durations. This suggests that despite the station serving fewer trips, the trips originating from here are notably longer, likely due to the location's proximity to Central Park.
-
-Conclusion: The analysis highlights the dynamic nature of bike sharing trends in New York City, with shifts in station popularity and trip durations over a two-year period. While Grand Central Station maintains its dominance, other stations such as those near Central Park and colleges have gained traction. Understanding these trends is crucial for optimizing bike sharing infrastructure and services to meet the evolving demands of users in different areas of the city.
-
 ![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/094369f1-7691-46e0-8bd9-c48e799695aa)
 
-Analysis of Most Popular End Stations in 2014/2016 using Map
-
-Introduction: This analysis investigates the most popular end stations and trip duration trends for bike sharing in New York City in 2014 and 2016. Utilizing a map visualization in Tableau, we explore how the popularity of end stations and trip durations have changed over the two-year period. No subway path has more bikes being used.
-Map Visualization: The map visualization presents end stations as bubbles, with the size and color of each bubble indicating the popularity and trip duration of the station, respectively.
-
-Grand Central Station Dominance: Grand Central Terminal emerges as the busiest end station in both 2014 and 2016, characterized by a large and dark bubble on the map. This indicates high trip frequency and longer trip durations associated with this station.
-
-Shift in Popular Stations: While Grand Central remains a top destination, there are notable shifts in station popularity between 2014 and 2016. In 2014, stations near New York Penn Station and New York Institute of Technology ranked among the top three, while in 2016, stations near Central Park gained prominence.
-
-Trip Duration Phenomenon: A significant observation in 2016 is the station Central Park West & W 85 St near Central Park. Despite having a smaller bubble size, it exhibits the darkest color, indicating longer trip durations. This suggests that while fewer trips originate from this station, they tend to be significantly longer, likely due to the proximity to Central Park.
-
-Conclusion: The analysis highlights the dynamic nature of bike sharing trends in New York City, with shifts in station popularity and trip durations over a two-year period. Despite Grand Central Station's continued dominance, other stations near Central Park have gained traction. Understanding these trends is crucial for optimizing bike sharing infrastructure and services to meet the evolving demands of users in different areas of the city.
 ![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/66e8ee78-7d86-4c22-a597-02cb0517d370)
 
 Analysis of Most Popular Start Stations in 2014/2016 Using Bar Graph
