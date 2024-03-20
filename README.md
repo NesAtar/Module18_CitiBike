@@ -19,7 +19,6 @@ Trip Duration Phenomenon: A significant phenomenon observed in 2016 is the stati
 Conclusion: The analysis highlights the dynamic nature of bike sharing trends in New York City, with shifts in station popularity and trip durations over a two-year period. While Grand Central Station maintains its dominance, other stations such as those near Central Park and colleges have gained traction. Understanding these trends is crucial for optimizing bike sharing infrastructure and services to meet the evolving demands of users in different areas of the city.
 <img width="245" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/69c9c046-8f22-4077-bf33-d2cb9d5dc747">
 <img width="254" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/dcba3592-46c9-4daa-bf75-3f84329526e9">
-![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/5424e2e8-8435-4a9f-82be-29bc89928883)
 
 
 Analysis of Most Popular End Stations in 2014/2016 using Map
@@ -40,7 +39,7 @@ Conclusion: The analysis highlights the dynamic nature of bike sharing trends in
 
 <img width="228" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/2debbeb3-6223-4976-9fad-d279f779a8f8">
 <img width="263" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/cc0f746a-2c6c-46ad-9d79-e87982ce5dab">
-![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/70843146-9a50-4736-a712-a40c7f9a5fff)
+
 
 Analysis of Most Popular Start Stations in 2014/2016 Using Bar Graph
 
@@ -62,7 +61,7 @@ Conclusion: The analysis highlights the evolving trends in the popularity of sta
 
 <img width="265" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/de5afd20-1cfe-4727-94e1-28f6361d5a3a">
 <img width="265" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/feeee755-d42f-4b9b-9f8b-7eb8b6eb85ff">
-![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/d0ad3445-303d-4a69-90d6-73b930ea9eb4)
+
 
 Analysis of Peak Hour Trends in March of 2014/2016 Using Line Graph
 
@@ -82,7 +81,7 @@ Conclusion: The analysis reveals consistent peak hour trends for bike trips in M
 
 <img width="274" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/c39dcbbf-6617-4e21-9b0b-147432c76260">
 <img width="237" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/b04e1745-6a5b-46ab-b877-d713f1fc66e0">
-![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/9c2ae59d-2a29-4d52-bb81-40a77d83c769)
+
 
 Analysis of Dashboard for Most Popular Start Stations on a Map and Bar graph 2014 vs 2016
 
@@ -98,5 +97,5 @@ Despite the different visualization methods used for 2014 and 2016 data, both ye
 The comparative analysis of the most popular start stations in 2014 and 2016 provides valuable insights into the spatial distribution and relative popularity of bike-sharing activity in New York City. Despite the different visualization methods used for each year, both years exhibit consistent trends, highlighting the importance of certain key locations as start points for bike journeys across the city. Understanding these trends can inform decisions regarding service planning, infrastructure investment, and promotional efforts to optimize bike-sharing services in New York City.
 
 <img width="334" alt="image" src="https://github.com/NesAtar/Module18_CitiBike/assets/148135912/c3c63cec-1944-4f23-ae49-aeda2c791fc9">
-![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/803256b8-452e-405c-b4a1-427e64d0b162)
+
 
