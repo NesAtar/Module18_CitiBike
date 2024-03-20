@@ -1,3 +1,5 @@
+Unfortunaley the bubbles on the map are much smaller in the browser than the Tableau Dashboard. i didnt know how to adjust this in Tableau website.
+
 ![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/094369f1-7691-46e0-8bd9-c48e799695aa)
 
 ![image](https://github.com/NesAtar/Module18_CitiBike/assets/148135912/66e8ee78-7d86-4c22-a597-02cb0517d370)
