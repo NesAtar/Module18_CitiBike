@@ -1,3 +1,6 @@
+Tableau link:
+https://public.tableau.com/app/profile/nes.atar/vizzes
+
 Unfortunaley the bubbles on the map are much smaller in the browser than the Tableau Dashboard. I didnt know how to adjust this in Tableau website. My analysis is as follows:
 
 Module 18 Citi Bike Analysis
